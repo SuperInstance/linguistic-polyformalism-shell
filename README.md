@@ -1,5 +1,15 @@
 # Linguistic Polyformalism Shell
 
+
+## Meta
+
+**Domain:** constraint-theory
+**Depends on:** —
+**Depended by:** —
+**Implements:** Cross-linguistic thinking shell — Sapir-Whorf applied to creative cognition. 14+...
+**Related:** —
+
+
 **An MCP server that produces novel insights by solving problems through the grammatical constraints of 14 human languages across 7 language families.**
 
 Programming languages constrain computation. Human languages constrain cognition. When you think in Ancient Greek, you think in categories, definitions, and telos. When you think in Classical Chinese, you think in relationships, patterns, and processes. When you think in Navajo, you think in shapes, motions, and events.
